@@ -1,0 +1,11 @@
+»спользовалось
+инструменты разработчика mvs 2017
+win 10 SDK
+cocos2dx 3.10
+Cocos Studio
+
+SampleFlappyBirds.ccs - файл проекта созданный в Cocos Studio
+в папке cocos2d - должены находитс€ файлы движка cocos2dx 3.10
+proj.win32/SampleFlappyBirds.sln - проект
+Classes - исходники
+cocosstudio, Resources - все что используетс€ в файле проекта Cocos Studio, потом бинарники сценок отправл€ютс€ в папку Resources

@@ -1,0 +1,24 @@
+<Solution>
+  <PropertyGroup Name="SampleFlappyBirds" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="Birds">
+          <Image Name="black_bird.png" />
+          <Image Name="blue_bird.png" />
+          <Image Name="red_bird.png" />
+          <Image Name="yellow_bird.png" />
+        </Folder>
+        <Image Name="black_quad.png" />
+        <Image Name="Button.png" />
+        <Image Name="button_play.png" />
+        <Image Name="Easter_Eggs_World.png" />
+        <Project Name="GameScene.csd" Type="Scene" />
+        <Image Name="menu.png" />
+        <Image Name="menu2.png" />
+        <Image Name="restart.png" />
+        <Image Name="restart2.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
